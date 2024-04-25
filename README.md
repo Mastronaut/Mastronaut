@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mastronaut
-- 👀 I’m interested in Playing Warhammer 40K, RPGs, and games, and learning to code.
-- 🌱 I’m currently learning coding basics and need a refresher. I used to work in Python and C++
-- 💞️ I’m looking to collaborate on Battlescribe and other gaming databases
+- 👀 I’m interested in Playing Warhammer 40K, Tabletop RPGs, and games. I am also enjoying learning to code.
+- 🌱 I’m currently learning Full Stack Development. I have a background in Python, but I need a refresher to get back into it again.
+- 💞️ I want to collaborate on Battlescribe projects and other gaming databases.
 - 📫 How to reach me: nmastro84@gamail.com
 
 <!---
